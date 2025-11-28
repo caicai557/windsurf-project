@@ -1,1 +1,3 @@
-pub mod bridge;
+pub mod signal;
+
+pub use signal::{SignalChannel, SignalPayload};

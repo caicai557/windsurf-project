@@ -24,7 +24,7 @@ impl Actor for AccountActor {
 
     async fn pre_start(
         &self,
-        myself: ActorRef<Self::Msg>,
+        _myself: ActorRef<Self::Msg>,
         args: Self::Arguments,
     ) -> Result<Self::State, ActorProcessingErr> {
         info!("Lord {} has risen (generation {})", args.id, args.generation);

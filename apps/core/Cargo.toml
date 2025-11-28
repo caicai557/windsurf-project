@@ -27,4 +27,6 @@ thiserror = "1"
 # Utilities
 uuid = { version = "1", features = ["v4", "serde"] }
 chrono = { version = "0.4", features = ["serde"] }
-base64 = "0.22"
+base64 = "0.21"
+lazy_static = "1"
+regex = "1"

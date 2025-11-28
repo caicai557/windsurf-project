@@ -17,6 +17,27 @@ impl Default for WorkflowStatus {
     }
 }
 
+impl WorkflowStatus {
+    pub fn as_str(&self) -> &'static str {
+        match self {
+            WorkflowStatus::Running => "RUNNING",
+            WorkflowStatus::Paused => "PAUSED",
+            WorkflowStatus::Failed => "FAILED",
+            WorkflowStatus::Completed => "COMPLETED",
+        }
+    }
+
+    pub fn from_str(value: &str) -> Option<Self> {
+        match value.to_uppercase().as_str() {
+            "RUNNING" => Some(WorkflowStatus::Running),
+            "PAUSED" => Some(WorkflowStatus::Paused),
+            "FAILED" => Some(WorkflowStatus::Failed),
+            "COMPLETED" => Some(WorkflowStatus::Completed),
+            _ => None,
+        }
+    }
+}
+
 #[derive(Debug, Clone, Serialize, Deserialize)]
 pub struct WorkflowRecord {
     pub id: String,
