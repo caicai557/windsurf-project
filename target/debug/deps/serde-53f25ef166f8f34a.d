@@ -1,0 +1,14 @@
+C:\Users\hybnb\CascadeProjects\windsurf-project\target\debug\deps\serde-53f25ef166f8f34a.d: C:\Users\hybnb\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\hybnb\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\hybnb\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\hybnb\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\hybnb\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\hybnb\CascadeProjects\windsurf-project\target\debug\build\serde-058e13a7edcc7dc6\out/private.rs
+
+C:\Users\hybnb\CascadeProjects\windsurf-project\target\debug\deps\libserde-53f25ef166f8f34a.rlib: C:\Users\hybnb\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\hybnb\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\hybnb\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\hybnb\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\hybnb\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\hybnb\CascadeProjects\windsurf-project\target\debug\build\serde-058e13a7edcc7dc6\out/private.rs
+
+C:\Users\hybnb\CascadeProjects\windsurf-project\target\debug\deps\libserde-53f25ef166f8f34a.rmeta: C:\Users\hybnb\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\hybnb\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\hybnb\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\hybnb\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\hybnb\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\hybnb\CascadeProjects\windsurf-project\target\debug\build\serde-058e13a7edcc7dc6\out/private.rs
+
+C:\Users\hybnb\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs:
+C:\Users\hybnb\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs:
+C:\Users\hybnb\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs:
+C:\Users\hybnb\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs:
+C:\Users\hybnb\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs:
+C:\Users\hybnb\CascadeProjects\windsurf-project\target\debug\build\serde-058e13a7edcc7dc6\out/private.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\hybnb\\CascadeProjects\\windsurf-project\\target\\debug\\build\\serde-058e13a7edcc7dc6\\out

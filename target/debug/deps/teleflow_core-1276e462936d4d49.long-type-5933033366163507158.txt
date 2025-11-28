@@ -1,0 +1,1 @@
+QueryAs<'_, _, (std::string::String, std::string::String, JsonValue, i64, DateTime<Utc>, DateTime<Utc>), _>

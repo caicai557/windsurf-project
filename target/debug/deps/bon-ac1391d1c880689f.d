@@ -1,0 +1,11 @@
+C:\Users\hybnb\CascadeProjects\windsurf-project\target\debug\deps\bon-ac1391d1c880689f.d: C:\Users\hybnb\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bon-2.3.0\src\lib.rs C:\Users\hybnb\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bon-2.3.0\src\private\mod.rs C:\Users\hybnb\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bon-2.3.0\src\private\deprecations.rs C:\Users\hybnb\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bon-2.3.0\src\private\ide.rs C:\Users\hybnb\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bon-2.3.0\src\../README.md
+
+C:\Users\hybnb\CascadeProjects\windsurf-project\target\debug\deps\libbon-ac1391d1c880689f.rlib: C:\Users\hybnb\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bon-2.3.0\src\lib.rs C:\Users\hybnb\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bon-2.3.0\src\private\mod.rs C:\Users\hybnb\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bon-2.3.0\src\private\deprecations.rs C:\Users\hybnb\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bon-2.3.0\src\private\ide.rs C:\Users\hybnb\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bon-2.3.0\src\../README.md
+
+C:\Users\hybnb\CascadeProjects\windsurf-project\target\debug\deps\libbon-ac1391d1c880689f.rmeta: C:\Users\hybnb\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bon-2.3.0\src\lib.rs C:\Users\hybnb\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bon-2.3.0\src\private\mod.rs C:\Users\hybnb\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bon-2.3.0\src\private\deprecations.rs C:\Users\hybnb\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bon-2.3.0\src\private\ide.rs C:\Users\hybnb\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bon-2.3.0\src\../README.md
+
+C:\Users\hybnb\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bon-2.3.0\src\lib.rs:
+C:\Users\hybnb\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bon-2.3.0\src\private\mod.rs:
+C:\Users\hybnb\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bon-2.3.0\src\private\deprecations.rs:
+C:\Users\hybnb\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bon-2.3.0\src\private\ide.rs:
+C:\Users\hybnb\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bon-2.3.0\src\../README.md:

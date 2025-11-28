@@ -1,0 +1,30 @@
+[package]
+name = "teleflow-core"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# Async Runtime
+tokio = { version = "1", features = ["full"] }
+tracing = "0.1"
+
+# Actor System
+ractor = "0.14"
+
+# Database & Persistence
+sqlx = { version = "0.7", features = ["sqlite", "runtime-tokio-native-tls", "uuid", "chrono", "json", "macros"] }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+rmp-serde = "1"
+
+# Caching (Write-Behind)
+moka = { version = "0.12", features = ["future"] }
+
+# Error Handling
+anyhow = "1"
+thiserror = "1"
+
+# Utilities
+uuid = { version = "1", features = ["v4", "serde"] }
+chrono = { version = "0.4", features = ["serde"] }
+base64 = "0.22"
